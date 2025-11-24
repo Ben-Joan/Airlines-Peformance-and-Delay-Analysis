@@ -7,7 +7,7 @@ Analyzing flight data provides critical insights into operational inefficiencies
 ## Project Objective
 The project aims to analyze airline performance and flight delays to identify trends, causes, and opportunities for improving punctuality and operational efficiency.
 
-## Analytical Guide: 5 Key Questions
+#### Some Key Questions to guide analysis include:
 1. Which months and airports experience the highest flight traffic?  
 2. During which periods are flight delays most frequent, and how do they vary across airlines?  
 3. What are the primary reasons for flight delays (carrier, weather, late aircraft, etc.)?  
