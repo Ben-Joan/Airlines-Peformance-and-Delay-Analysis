@@ -34,3 +34,16 @@ The chart shows a clear improvement in flight punctuality from 2023 to 2024. In 
 
 Although 2024 had lower flight volume than 2023 , it steadily increased toward the end of the year, reinforcing the trend of operational recovery. This monthly pattern supports the broader insight that 2024 experienced stronger punctuality performance despite some flight volume fluctuations, leading to better overall flight reliability compared to 2023.
 
+### Causes of Flight Delay 
+
+![Delay](Charts/delayCauses.PNG)
+
+The breakdown of delay causes highlights **Late Aircraft and Aviation System issues** as the dominant contributors, accounting for **33.7% and 31.7%** of delays respectively. Notably, Late Aircraft delays show a significant **−45.63% YoY reduction**, indicating major improvements in aircraft turnaround efficiency and scheduling coordination. In contrast, **Aviation System delay increased by 17% YoY**, suggesting rising congestion, air traffic management constraints, or infrastructure-related challenges.
+
+**Carrier Issues**, responsible for **31.5% of delays**, also increased substantially **(+37.68% YoY)**, signalling operational bottlenecks within airline processes such as crew scheduling, baggage handling, or maintenance-related disruptions. **Weather-related delays** remain low at **2.8%,** but the **53.79% YoY increase** suggests a growing impact from adverse or unpredictable weather patterns. Finally, **Security Breach delays**, though only **0.3%** of total delays, nearly doubled year-over-year **(+99.12%)**, indicating heightened security interventions or policy changes affecting flight operations.
+
+![DelayYearVsMonth](Charts/MonthvsYear_delay_metrics.PNG)
+
+Each delay causes: Aviation Syaytem, Carrier Issue, Weather and Security Breach can be seen to mostly consistenly worsen across each month in 2024 compared to 2023.
+
+Overall, while improvements in Late Aircraft delays demonstrate progress in operational efficiency, rising delays across system, carrier, weather, and security factors point to systemic and environmental pressures that require broader mitigation strategies.
