@@ -77,11 +77,16 @@ Overall, system-related and late-aircraft issues dominate delay causes, but each
 
 ## Recommendations
 To ensure better operational efficiency for airlines:
-1. Weather and Security Breach:
-Although weather-related delays and security breaches account for a smaller proportion of total delays, their very high year-over-year growth highlights the need for proactive management. Incorporating advanced weather forecasting can help mitigate weather-related disruptions in advance. While security breaches typically last less than 3 minutes, even this brief window can have significant operational and reputational impacts. Automated security monitoring and continuous oversight should be enhanced to prevent such incidents.
+1. **Weather and Security Breach:**
+Although weather-related delays and security breaches account for a smaller proportion of total delays, their **very high year-over-year growth** highlights the need for proactive management. Incorporating advanced weather forecasting can help mitigate weather-related disruptions in advance.
+While security breaches typically **last less than 3 minutes**, even this brief window can have **significant operational and reputational impacts**. Automated security monitoring and continuous oversight should be enhanced to prevent such incidents.
 
-2. Late Aircraft, Aviation System, and Carrier Issues:
-Together, these three factors contribute to 97% of airline delays. While late aircraft delays have been significantly reduced, aviation system failures and carrier issues remain major concerns. To address carrier issues, strategies such as predictive maintenance, improved crew scheduling, and optimized workforce management should be implemented. For aviation system challenges, investment in modern radar and satellite-based navigation (e.g., ADS-B, NextGen), collaborative decision-making between ATC, airlines, and airports (A-CDM), AI-driven traffic flow management, and dynamic routing to avoid congestion are recommended.
+2. **Late Aircraft, Aviation System, and Carrier Issues:** 
+Together, these three factors contribute to **97% of airline delays**. While late aircraft delays have been significantly reduced, aviation system failures and carrier issues remain major concerns. To address carrier issues, strategies such as predictive maintenance, improved crew scheduling, and optimized workforce management should be implemented.
+For aviation system challenges, investment in modern radar and satellite-based navigation (e.g., ADS-B, NextGen), collaborative decision-making between ATC, airlines, and airports (A-CDM), AI-driven traffic flow management, and dynamic routing to avoid congestion are recommended.
 
-3. Flight Cancellations:
-Further investigation is needed to determine the root causes of cancellations. Understanding these drivers will help airlines reduce financial losses, improve customer experience, and minimize churn.
+3. **Flight Cancellations:**
+Further investigation is needed to determine the root causes of cancellations to prevent recurrence. Understanding these drivers will help airlines reduce financial losses. Improve communication with passengers to reduce dissatisfaction and churn. Implement contingency planning for high-risk routes and peak travel periods.
+
+4. **Collaboration & Policy Improvements:**
+Work with airports, regulators, and other airlines to streamline ground operations and slot allocations. Invest in sustainable and flexible operational policies that can absorb shocks during peak or disruptive periods.
