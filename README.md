@@ -22,8 +22,15 @@ The data was collected, cleaned, formatted and transformed from flat table to an
 
 ### Overall Metrics
 
-![ERD](Charts/flight_metrics.PNG)
+![Flight](Charts/flight_metrics.PNG)
 
 Across January 2023 to December 2024, a total of **1 million flights** were recorded. Overall performance shows that **81.95% of flights arrived on time**, while **16.9% were delayed, 0.96% were cancelled**, and **0.19% were diverted**.
 
-Year-over-year, on-time performance improved significantly by +10.69% (2024 vs. 2023). Delay rates saw a substantial −42.24% reduction, alongside a −29.68% drop in diversions. However, cancellations increased by +11.94%, representing the only negative shift in operational performance.
+Year-over-year, on-time performance improved significantly by **+10.69%** (2024 vs. 2023). Delay rates saw a substantial **−42.24% reduction**, alongside a **−29.68% drop** in diversions. However, cancellations increased by **+11.94%**, representing the only negative shift in operational performance.
+
+![MonthYear](Charts/month_year_delay_rate.PNG)
+
+The chart shows a clear improvement in flight punctuality from 2023 to 2024. In 2023, delay rates consistently hovered around the **19–21%** range, with on-time flight volumes fluctuating but majority months generally staying above the annual average. However, beginning in early 2024, delay rates dropped sharply into the **10–13%** range, signalling a major operational shift. This reduction aligns with the YoY improvement of **+10.69%** in on-time performance and the significant **−42.24%** drop in delays highlighted earlier. 
+
+Although 2024 had lower flight volume than 2023 , it steadily increased toward the end of the year, reinforcing the trend of operational recovery. This monthly pattern supports the broader insight that 2024 experienced stronger punctuality performance despite some flight volume fluctuations, leading to better overall flight reliability compared to 2023.
+
