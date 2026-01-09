@@ -73,6 +73,7 @@ Overall, system-related and late-aircraft issues dominate delay causes, but each
   </tr>
 </table>
 
+## Report View
 ![Dashboard](https://github.com/Ben-Joan/Airlines-Peformance-and-Delay-Analysis/blob/main/Charts/Airline%20Delay.jpg)
 **For further exploration, Check out the [power bi dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2MzODEwYjktM2M0Ni00MWRhLTg1ZWItYjk3Zjc0NjJlNTRhIiwidCI6IjczMDc4ZWNkLWYzM2UtNDQxYy05ODYyLWVhZDdjNjFhNGU4MiJ9)**
 
